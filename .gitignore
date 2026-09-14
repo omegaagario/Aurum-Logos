@@ -1,0 +1,21 @@
+# Sistema Operativo y Archivos Temporales
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Editores
+.vscode/
+.idea/
+*.swp
