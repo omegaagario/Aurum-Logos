@@ -18,7 +18,7 @@ Aurum-Logos/
 
 ---
 
-## 📺 Canales Incluidos (50)
+## 📺 Canales Incluidos (51)
 
 * 13 RIO CUARTO
 * AL JAZEERA
@@ -32,6 +32,7 @@ Aurum-Logos/
 * CBA 24N
 * CH 13 Corrientes
 * CH 9 Resistencia
+* Cable Y Diario
 * Canal 10 MDQ
 * Canal 11 Formosa
 * Canal 11 Parana
