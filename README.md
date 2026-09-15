@@ -18,7 +18,7 @@ Aurum-Logos/
 
 ---
 
-## 📺 Canales Incluidos (51)
+## 📺 Canales Incluidos (52)
 
 * 13 RIO CUARTO
 * AL JAZEERA
@@ -26,6 +26,7 @@ Aurum-Logos/
 * ARIRANG
 * Allegro
 * BBC World News
+* BEIN SPORTS Ñ
 * Bloomberg
 * Bravo TV
 * CANAL 10 JUNIN
