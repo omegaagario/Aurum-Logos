@@ -18,11 +18,14 @@ Aurum-Logos/
 
 ---
 
-## 📺 Canales Incluidos (95)
+## 📺 Canales Incluidos (109)
 
 * + Perfil
 * 10 Rio Negro
 * 13 RIO CUARTO
+* 24-7 Noticias
+* 5tv Corrientes
+* Aire de Santa Fe
 * AL JAZEERA
 * Allegro
 * ANTENA 3
@@ -35,23 +38,33 @@ Aurum-Logos/
 * Cable Y Diario
 * CANAL 10 JUNIN
 * Canal 10 MDQ
+* Canal 10 Salta
 * Canal 11 Formosa
 * Canal 11 Parana
 * Canal 2 MDQ LCC
+* Canal 2 Misiones
+* Canal 3 Arroyito
 * Canal 3 Formosa
+* Canal 3 Pinamar
+* Canal 4 Posadas
 * Canal 7 Bahia Blanca
+* Canal 7 Jujuy
+* Canal 7 Neuquén
 * Canal 7 SDE
 * Canal 79 MDQ
 * Canal 8 CBA
 * Canal 8 Tucuman
 * Canal 9 Bahia Blanca
+* Canal 9 Litoral
 * Canal 90 Digital
 * Canal de la ciudad
 * Caras TV
+* Catamarca TV
 * CBA 24N
 * CH 13 Corrientes
 * CH 9 Resistencia
 * Ch10 Tucuman
+* ChacoTV
 * CINE AR
 * Daystar
 * DAZN F1
@@ -102,6 +115,7 @@ Aurum-Logos/
 * Somos Salta-Jujuy
 * Somos STF
 * Somos Tucuman
+* T5 Satelital
 * Telemax
 * Telenovelas
 * Telesol SJ
