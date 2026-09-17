@@ -18,7 +18,7 @@ Aurum-Logos/
 
 ---
 
-## 📺 Canales Incluidos (52)
+## 📺 Canales Incluidos (57)
 
 * 13 RIO CUARTO
 * AL JAZEERA
@@ -46,11 +46,15 @@ Aurum-Logos/
 * DNews
 * DSPORTS +
 * DW noticias
+* Dragon Ball Z
 * EcoTv Tandil
+* El Chavo
 * Fox News
 * France 24
 * La Pantera Rosa
 * Local Carlos Paz
+* Los Pitufos
+* Los Simpsons
 * MixTV
 * NEW BRASIL
 * Orbe 21
@@ -69,6 +73,7 @@ Aurum-Logos/
 * TV España
 * TV GALICIA
 * Teve Ciudad
+* Tom y Jerry
 * UCL
 * Universidad MDQ
 * Vorterix
