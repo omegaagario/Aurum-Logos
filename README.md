@@ -18,7 +18,7 @@ Aurum-Logos/
 
 ---
 
-## 📺 Canales Incluidos (109)
+## 📺 Canales Incluidos (110)
 
 * + Perfil
 * 10 Rio Negro
@@ -83,6 +83,7 @@ Aurum-Logos/
 * Flow Music
 * Fox News
 * France 24
+* GH 24 HORAS
 * GOLDEN
 * GOLDEN EDGE
 * GOLDEN PREMIERE
