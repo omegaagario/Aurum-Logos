@@ -18,7 +18,7 @@ Aurum-Logos/
 
 ---
 
-## 📺 Canales Incluidos (110)
+## 📺 Canales Incluidos (111)
 
 * + Perfil
 * 10 Rio Negro
@@ -92,6 +92,7 @@ Aurum-Logos/
 * Kidoo
 * La Pantera Rosa
 * Local Carlos Paz
+* LPF
 * Los Pitufos
 * Los Simpsons
 * MixTV
