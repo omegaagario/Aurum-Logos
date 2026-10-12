@@ -18,7 +18,7 @@ Aurum-Logos/
 
 ---
 
-## 📺 Canales Incluidos (111)
+## 📺 Canales Incluidos (112)
 
 * + Perfil
 * 10 Rio Negro
@@ -73,6 +73,7 @@ Aurum-Logos/
 * DNews
 * Dragon Ball Z
 * DSPORTS +
+* DSPORTS PREMIUM UY
 * DW noticias
 * EcoTv Tandil
 * El Chavo
@@ -92,9 +93,9 @@ Aurum-Logos/
 * Kidoo
 * La Pantera Rosa
 * Local Carlos Paz
-* LPF
 * Los Pitufos
 * Los Simpsons
+* LPF
 * MixTV
 * NBA TV
 * NEW BRASIL
