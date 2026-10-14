@@ -18,13 +18,15 @@ Aurum-Logos/
 
 ---
 
-## 📺 Canales Incluidos (112)
+## 📺 Canales Incluidos (114)
 
 * + Perfil
 * 10 Rio Negro
 * 13 RIO CUARTO
 * 24-7 Noticias
 * 5tv Corrientes
+* 7 MENDOZA
+* 9 MENDOZA
 * Aire de Santa Fe
 * AL JAZEERA
 * Allegro
