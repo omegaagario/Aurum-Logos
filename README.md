@@ -18,7 +18,7 @@ Aurum-Logos/
 
 ---
 
-## 📺 Canales Incluidos (114)
+## 📺 Canales Incluidos (115)
 
 * + Perfil
 * 10 Rio Negro
@@ -80,6 +80,7 @@ Aurum-Logos/
 * EcoTv Tandil
 * El Chavo
 * EL REINO INFANTIL
+* ESPN DEPORTES
 * F1 TV
 * Flow Eventos
 * Flow Eventos 2
